@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Vashisth</h1>
 <h3 align="center">A passionate Data Scientist, Web Developer, Software Developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/109802813/218804991-6df9d3d9-1e28-47a4-8999-fb52da08e26c.png)"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-vashisth" alt="harshit-vashisth" /></a> </p>
 
 - 🔭 I’m currently working on [Health-app](https://github.com/Harshit-Vashisth/parkinson.git)
