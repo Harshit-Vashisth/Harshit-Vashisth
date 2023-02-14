@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Vashisth</h1>
 <h3 align="center">A passionate Data Scientist, Web Developer, Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/109802813/218805222-4a70c5f8-00b5-41c9-b361-298c8e60bed7.png)
-">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw179wo5d4Lv5k0wRsTRKoqc&ust=1676479978720000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjh8d-8lf0CFQAAAAAdAAAAABAd">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-vashisth" alt="harshit-vashisth" /></a> </p>
 
