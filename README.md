@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats-chi-teal-27.vercel.app/api/top-langs?username=harshit-vashisth&show_icons=true&locale=en&layout=compact" alt="harshit-vashisth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-vashisth&show_icons=true&locale=en" alt="harshit-vashisth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-chi-teal-27.vercel.app/api?username=harshit-vashisth&show_icons=true&locale=en" alt="harshit-vashisth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-vashisth&" alt="harshit-vashisth" /></p>
